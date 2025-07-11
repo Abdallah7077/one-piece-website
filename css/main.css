@@ -1,0 +1,90 @@
+body
+{
+  background-image: url(../Images/1342304.jpeg);
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  font-family: "Dancing Script", cursive;
+}
+.Header
+{
+  width: 95%;
+  height: 600px;
+  border: 5px solid white;
+  background-image: url(../Images/1350086.jpeg);
+  background-size: cover;
+  margin: 50px auto 20px;
+  border-radius: 20px;
+}
+.content-header
+{
+  text-align: center;
+  margin-top: 99px;
+  color: rgb(246, 40, 40);
+}
+.special-span{
+  color: rgb(4, 207, 17);
+}
+.content-header h1 
+{
+  font-size: 60px;
+}
+.content-header p
+{
+  font-size: 40px;
+  color: black;
+}
+.clear-fix
+{
+  clear: both;
+}
+.items
+{
+  width: 95%;
+  margin: 15px auto;
+}
+.item1
+{
+  background-image: url(../Images/375473.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100% 100% ;
+  width: 50%;
+  height: 50%;
+  float: left;
+  border: 5px solid;
+  font-size: 40px;
+  border-radius: 20px;
+  text-align: center;
+}
+.item1 p
+{
+  font-family: "Winky Rough", sans-serif;
+  font-size: 30px;
+}
+.item1 .special-D
+{
+  color: red;
+  font-size: 70px;
+  font-weight: 300;
+}
+.item2
+{
+  background-image: url(../Images/1327091.png);
+  background-size: contain;
+  width: 45%;
+  height: 50%;
+  float: right;
+  border: 5px solid;
+  font-size: 40px;
+  border-radius: 20px;
+  text-align: center;
+}
+.item2 .SPECIAL-Z
+{
+  color: greenyellow;
+}
+.item2 p
+{
+  font-family: "Winky Rough", sans-serif;
+  color: rgb(29, 213, 29);
+  font-size: 30px;
+}
